@@ -41,6 +41,7 @@ Best Parameters	Found via GridSearchCV
 Classes	unacc, acc, good, vgood
 
 ***Classification Report:***
+
               precision    recall  f1-score   support
 
            0       0.89      0.96      0.93        77
